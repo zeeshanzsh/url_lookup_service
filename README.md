@@ -2,9 +2,9 @@
 
 
 ## Getting Started
-
+```
 git clone git@github.com:zeeshanzsh/url_lookup_service.git
-
+```
 ### Prerequisites
 Install python lib to make application run
 ```
